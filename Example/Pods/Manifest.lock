@@ -1,0 +1,16 @@
+PODS:
+  - BMASpinningLabel (1.0.0)
+
+DEPENDENCIES:
+  - BMASpinningLabel (from `..`)
+
+EXTERNAL SOURCES:
+  BMASpinningLabel:
+    :path: ..
+
+SPEC CHECKSUMS:
+  BMASpinningLabel: 32779bbcc2bf0a7f21e4c8c3d6e4ec03c74d7387
+
+PODFILE CHECKSUM: ffc12af16d85f51a84c0297a6a54a8e0383235c3
+
+COCOAPODS: 1.2.0

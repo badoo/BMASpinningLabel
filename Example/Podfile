@@ -1,0 +1,9 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target :BMASpinningLabel do
+  pod 'BMASpinningLabel', :path => '..'
+  target :BMASpinningLabelTests do
+    inherit! :search_paths
+  end
+end
