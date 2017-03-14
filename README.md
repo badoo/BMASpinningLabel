@@ -1,6 +1,6 @@
 # BMASpinningLabel [![Build Status](https://api.travis-ci.org/badoo/BMASpinningLabel.svg)](https://travis-ci.org/badoo/BMASpinningLabel)
 `BMASpinningLabel` is an UI component which provides easy way for displaying and animating text inside it.
-Text changes animated as 'spins' (either downwards or upwards).
+Text changes animated as 'spins', either downwards or upwards.
 Below you can see example how it works.
 
 <div align="center">
