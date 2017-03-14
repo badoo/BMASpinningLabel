@@ -1,0 +1,4 @@
+language: objective-c
+xcode_workspace: Example/BMASpinningLabel.xcworkspace
+xcode_scheme: BMASpinningLabel
+xcode_sdk: iphonesimulator
