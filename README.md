@@ -1,7 +1,7 @@
 # BMASpinningLabel [![Build Status](https://api.travis-ci.org/badoo/BMASpinningLabel.svg)](https://travis-ci.org/badoo/BMASpinningLabel)
 `BMASpinningLabel` is an UI component which provides easy way for displaying and animating text inside it.
 Text changes animated as 'spins' (either downwards or upwards).
-Below you can see several examples how it works in real applications.
+Below you can see example how it works.
 
 <div align="center">
 <img src="./demoimages/demo.gif" />
@@ -48,4 +48,5 @@ NSAttributedString *newTitle = [[NSAttributedString alloc] initWithString:@"New 
 Source code is distributed under MIT license.
 
 ##Blog
+
 Read more on our [tech blog](http://techblog.badoo.com/) or explore our other [open source projects](https://github.com/badoo)
