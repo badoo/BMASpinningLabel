@@ -1,5 +1,5 @@
 language: objective-c
-osx_image: xcode8.2
+osx_image: xcode8.1
 script:
 - xctool -workspace Example/BMASpinningLabel.xcworkspace -scheme BMASpinningLabel -sdk iphonesimulator build test ONLY_ACTIVE_ARCH=NO GCC_INSTRUMENT_PROGRAM_FLOW_ARCS=YES GCC_GENERATE_TEST_COVERAGE_FILES=YES
 after_success:
